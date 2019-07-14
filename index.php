@@ -63,8 +63,17 @@
     /*
         Ako je brojač deljiv sa tri postaviti sliku tri.jpg, ako brojač pri deljenju sa tri daje ostatak jedan postaviti sliku 
         jedan.jpg, a ukoliko brojač pri deljenu sa tri daje ostatak dva postaviti sliku dva.jpg
+    */
 
-        Dvostruka vrednost brojeva od 5 do 15
+    /*  Dvostruka vrednost brojeva od 5 do 15 */
+    $vr = 0;
+    for($i = 5; $i <= 15; $i++) {
+        $vr += 2 * $i;
+    }
+    echo $vr;
+    echo "<br>";
+
+    /*
         Suma brojeva od 1 do n
         Suma brojeva od n do m
         Proizvod brojeva od 1 do n
