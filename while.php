@@ -7,6 +7,9 @@
         .green {
             color: green;
         }
+        .blue {
+            color: blue;
+        }
         .img {
             width: 200px;
         }
