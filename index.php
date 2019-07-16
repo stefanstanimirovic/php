@@ -82,6 +82,8 @@
         Imenovati tri sličice 1.png, 2.png i 3.png i for petljom u HTML-u ispisati svaku od sličica uz pomoć brojača
 
     */
+
+    // Test komentar
     ?>
 </body>
 </html>
