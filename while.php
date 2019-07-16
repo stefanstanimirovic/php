@@ -177,6 +177,18 @@
     }
     echo $suma;
     echo "<br>";
+
+    /* Prebrojati koliko ima brojeva deljivih sa 13 u intervalu od 5 do 150 */
+    $br = 0;
+    $i = 15;
+    while($i <= 150) {
+        if($i % 13 == 0) {
+            $br++;
+        }
+        $i++;
+    }
+    echo $br;
+    echo "<br>";
 ?>
 </body>
 </html>
