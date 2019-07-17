@@ -11,7 +11,7 @@
             color: blue;
         }
         .img {
-            width: 200px;
+            width: 210px;
         }
     </style>
 </head>
