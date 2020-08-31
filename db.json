@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "imePrezime": "Vlade Divac",
+        "visina": 2.12,
+        "timovi": ["Partizan", "Lakers", "Charlote", "Sacramento"]
+    }, 
+    {
+        "id": 2,
+        "imePrezime": "Predrag Stojakovic",
+        "visina": 2.06,
+        "timovi": ["Sacramento", "Toronto", "Dalas", "Indiana", "New Orleans"]
+    }, 
+    {
+        "id": 3,
+        "imePrezime": "Lebron James",
+        "visina": 1.97,
+        "timovi": ["Clevlend", "Miami", "Lakers"]
+    }, 
+    {
+        "id": 4,
+        "imePrezime": "Luka Doncic",
+        "visina": 2.01,
+        "timovi": ["Real Madrid", "Dalas"]
+    }, 
+    {
+        "id": 5,
+        "imePrezime": "Dirk Nowitzki",
+        "visina": 2.13,
+        "timovi": ["Vircburg", "Dalas"]
+    }
+]
